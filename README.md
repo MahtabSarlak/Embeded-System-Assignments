@@ -26,7 +26,8 @@ the allowable range or where the gas concentration reaches the allowable limit a
 
 ## Smart Key system
 The system layout is as follows: A central node(master) controls a number of smart keys(slaves) that are connected via a ‫‪RS485‬‬ bus.
-![img](https://github.com/mahtab2/Embeded-System-Assignments/tree/main/assets/smartkey.jpg)
+
+![Image](https://github.com/mahtab2/Embeded-System-Assignments/blob/main/assets/smartkey.jpg)
 
 ### Description
 Smart keys can be single or have more bridges. The different 
