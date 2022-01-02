@@ -1,0 +1,38 @@
+ert_main.o: \
+ D:/university/term7/emb-final-proj/slave_model_ert_rtw/ert_main.c \
+ D:/university/term7/emb-final-proj/slave_model_ert_rtw/slave_model.h \
+ D:/university/term7/emb-final-proj/slave_model_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h \
+ D:/university/term7/emb-final-proj/slave_model_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h \
+ D:/university/term7/emb-final-proj/slave_model_ert_rtw/slave_model_types.h \
+ D:/university/term7/emb-final-proj/slave_model_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/standard/pins_arduino.h
+
+D:/university/term7/emb-final-proj/slave_model_ert_rtw/slave_model.h:
+
+D:/university/term7/emb-final-proj/slave_model_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h:
+
+D:/university/term7/emb-final-proj/slave_model_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h:
+
+D:/university/term7/emb-final-proj/slave_model_ert_rtw/slave_model_types.h:
+
+D:/university/term7/emb-final-proj/slave_model_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/standard/pins_arduino.h:
