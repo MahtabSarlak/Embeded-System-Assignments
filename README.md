@@ -13,6 +13,13 @@ But if the distance of the robot from the source of gas leakage is less than the
 robot exceeds the allowable limit, to avoid the risk of explosion, it must turn off its fan and Move backwards from the gas source to enter 
 the allowable range or where the gas concentration reaches the allowable limit and then starts again.
 
+The tinkercad design:
+
+![Image](https://github.com/mahtab2/Embeded-System-Assignments/blob/main/assets/safteyRobotTinkercad.jpg)
+
+The proteous design:
+
+<img src="https://github.com/mahtab2/Embeded-System-Assignments/blob/main/assets/safteyRobot.jpg" width="600" height="300">
 
 ### Technology
 
